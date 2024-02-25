@@ -1,5 +1,7 @@
 Personal Website: https://richard5zx.github.io/
+
 LinkedIn: https://www.linkedin.com/in/richard5zx/
+
 About me:
 - 👋 Hi, My name is Richard
 - 👀 I’m interested in sports, languages and technology 
